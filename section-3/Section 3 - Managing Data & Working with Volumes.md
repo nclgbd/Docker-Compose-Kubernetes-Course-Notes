@@ -2,6 +2,7 @@ This section focuses on:
 - Understanding Different Kinds of Data
 - Images, Containers, and Volumes
 - Using Arguments and Environment Variables
+## [Cheat sheet](obsidian://open?vault=docker-compose-kubernetes-course&file=cheatsheets%2FCheat-Sheet-Data-Volumes.pdf)
 # Understanding Different Kinds of Data
 
 | Question                                                                                           | Response                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
